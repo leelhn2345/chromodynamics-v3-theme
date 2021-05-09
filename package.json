@@ -1,0 +1,22 @@
+{
+    "name": "chromodynamics-v3-theme",
+    "displayName": "Chromodynamics V3 Theme",
+    "description": "A dark color scheme originally from Chromodynamics-V2, by yousefabuz17",
+    "version": "0.0.1",
+    "publisher": "leelhn2345",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ChromodynamicsV3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ChromodynamicsV3-color-theme.json"
+            }
+        ]
+    }
+}
