@@ -155,14 +155,13 @@
 				"foreground": "#FFFFFF"
 			}
 		},
-		// {
-		// 	"name": "Typed variables",
-		// 	"scope": "meta.item-access.arguments",
-		// 	"settings": {
-		// 		"fontStyle": "italic",
-		// 		"foreground": "#FFFFFF"
-		// 	}
-		// },
+		{
+			"name": "ini punctuation",
+			"scope": "punctuation.separator.key-value.ini",
+			"settings": {
+				"foreground": "#1E90FF"
+			}
+		},
 		{
 			"name": "Keyword",
 			"scope": "keyword",
