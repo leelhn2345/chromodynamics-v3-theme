@@ -195,14 +195,14 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00FFFF",
+				"foreground": "#00FFFF"
 			}
 		},
 		{
 			"name": "Function calls",
 			"scope": "meta.function-call.generic",
 			"settings": {
-				"foreground": "#00FFFF",
+				"foreground": "#00FFFF"
 			}
 		},
 		{
@@ -328,7 +328,7 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#99732b",
+				"foreground": "#99732b"
 			}
 		},
 		{
@@ -490,5 +490,5 @@
 				"foreground": "#44727B"
 			}
 		}
-	],
+	]
 }
