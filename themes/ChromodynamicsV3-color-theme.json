@@ -21,7 +21,7 @@
 		"editor.lineHighlightBackground": "#252525",
 		"breadcrumb.foreground": "#909090",
 		"editorGutter.background": "#101010",
-		"gitDecoration.ignoredResourceForeground": "#808080",
+		// "gitDecoration.ignoredResourceForeground": "#808080",
 		"editorRuler.foreground": "#333",
 		"editor.findMatchHighlightBackground": "#66d9ff40",
 		"editor.findMatchHighlightBorder": "#66d9ff90",
@@ -320,17 +320,15 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				// "background": "#7c3636",
 				"fontStyle": "",
-				"foreground": "#F8F8F0"
+				"foreground": "#7C3636"
 			}
 		},
 		{
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				// "background": "#99732b",
-				"foreground": "#F8F8F0"
+				"foreground": "#99732b",
 			}
 		},
 		{
@@ -400,7 +398,8 @@
 				"punctuation.definition.decorator",
 				"punctuation.destructuring",
 				"punctuation.definition.interpolation",
-				"punctuation.definition.block.tag"
+				"punctuation.definition.block.tag",
+				"punctuation.comma"
 			],
 			"settings": {
 				"foreground": "#FF0000"
@@ -461,6 +460,13 @@
 			"scope": "case-clause keyword.control",
 			"settings": {
 				"foreground": "#569CD6"
+			}
+		},
+		{
+			"name": "environment keywords",
+			"scope": "variable.other.env",
+			"settings": {
+				"foreground": "#66CDAA"
 			}
 		},
 		{
