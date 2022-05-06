@@ -38,7 +38,8 @@
 		// "tab.lastPinnedBorder": "#196d43af",
 		"sash.hoverBorder": "#ffffff9a",
 		"statusBar.debuggingBackground": "#880a0a",
-		"selection.background": "#007acc"
+		"selection.background": "#007acc",
+		"editor.lineHighlightBorder": "#9fced11f"
 	},
 	"tokenColors": [
 		{
