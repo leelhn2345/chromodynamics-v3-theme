@@ -46,7 +46,8 @@
 			"name": "String",
 			"scope": [
 				"text",
-				"source"
+				"source",
+				"meta.interpolation"
 			],
 			"settings": {
 				"foreground": "#FFFFFF"
