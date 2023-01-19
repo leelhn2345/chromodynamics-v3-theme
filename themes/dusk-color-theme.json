@@ -307,6 +307,18 @@
       }
     },
     {
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "#1E90FF",
+      }
+    },
+    {
+      "scope": "entity.name.type.enum",
+      "settings": {
+        "foreground": "#12dd96",
+      }
+    },
+    {
       "name": "Template literals",
       "scope": "punctuation.definition.string.template",
       "settings": {

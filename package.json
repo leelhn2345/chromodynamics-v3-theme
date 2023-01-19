@@ -17,14 +17,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "ChromodynamicsV3",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ChromodynamicsV3-color-theme.json"
-            },
-            {
                 "label": "Dusk",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dusk-color-theme.json"
+            },
+            {
+                "label": "ChromodynamicsV3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ChromodynamicsV3-color-theme.json"
             }
         ]
     }
