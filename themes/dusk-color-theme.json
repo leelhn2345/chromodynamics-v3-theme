@@ -353,7 +353,8 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#66CDAA"
+        "foreground": "#7EE787"
+        // "foreground": "#66CDAA"
       }
     },
     {
