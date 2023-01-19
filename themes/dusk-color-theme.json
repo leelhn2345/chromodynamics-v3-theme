@@ -388,7 +388,10 @@
       }
     },
     {
-      "scope": "source",
+      "scope": [
+        "source",
+        "variable.other.constant.object"
+      ],
       "settings": {
         "foreground": "#FFFFFF"
       }
@@ -521,6 +524,12 @@
       }
     },
     {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#C71585",
+      }
+    },
+    {
       "scope": "meta.module-reference",
       "settings": {
         "foreground": "#79c0ff"
@@ -616,7 +625,8 @@
     {
       "scope": [
         "punctuation.separator",
-        "punctuation.definition.template-expression"
+        "punctuation.definition.template-expression",
+        "punctuation.accessor"
       ],
       "settings": {
         "foreground": "#FF0000",
