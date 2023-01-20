@@ -247,8 +247,6 @@
   "semanticTokenColors": {
     "selfParameter": "#FF00F2",
     "selfKeyword": "#FF00F2",
-    "class": "#00BFFF",
-    "struct": "#00BFFF",
     "*.typeHint": "#C71585",
   },
   "tokenColors": [
@@ -275,7 +273,6 @@
       "scope": [
         "entity.name.constant",
         "variable.other.constant",
-        "variable.other.enummember",
         "variable.language",
         "entity"
       ],
@@ -302,9 +299,9 @@
       }
     },
     {
-      "scope": "meta.tag.attributes",
+      "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#00FFFF"
+        "foreground": "#B392F0"
       }
     },
     {
@@ -314,9 +311,13 @@
       }
     },
     {
-      "scope": "entity.name.type.enum",
+      "scope": [
+        "entity.name.type.enum",
+        "entity.name.type.class",
+        "entity.name.type.struct"
+      ],
       "settings": {
-        "foreground": "#12dd96",
+        "foreground": "#00BFFF",
       }
     },
     {
@@ -351,11 +352,19 @@
     {
       "scope": [
         "entity.name.tag",
-        "support.class.component"
+        "support.class.component",
+        "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#7EE787"
+        "foreground": "#12dd96"
+        // "foreground": "#7EE787"
         // "foreground": "#66CDAA"
+      }
+    },
+    {
+      "scope": "support.function",
+      "settings": {
+        "foreground": "#A6E22E"
       }
     },
     {
