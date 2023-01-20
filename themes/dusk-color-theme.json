@@ -311,11 +311,7 @@
       }
     },
     {
-      "scope": [
-        "entity.name.type.enum",
-        "entity.name.type.class",
-        "entity.name.type.struct"
-      ],
+      "scope": "entity.name.type",
       "settings": {
         "foreground": "#00BFFF",
       }
@@ -408,7 +404,7 @@
     {
       "scope": "support",
       "settings": {
-        "foreground": "#79c0ff"
+        "foreground": "#C71585"
       }
     },
     {
@@ -530,12 +526,6 @@
       "settings": {
         "foreground": "#C71585",
         "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "entity.name.type",
-      "settings": {
-        "foreground": "#C71585",
       }
     },
     {
