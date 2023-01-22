@@ -349,19 +349,26 @@
     {
       "scope": [
         "entity.name.tag",
-        "support.class.component",
         "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#12dd96"
+        "foreground": "#dc3958"
+        // "foreground": "#12dd96"
         // "foreground": "#7EE787"
         // "foreground": "#66CDAA"
       }
     },
     {
+      "scope": "support.class.component",
+      "settings": {
+        "foreground": "#12dd96",
+      }
+    },
+    {
       "scope": "support.function",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#A6E22E",
+        "fontStyle": "underline"
       }
     },
     {
