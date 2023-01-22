@@ -295,7 +295,8 @@
         "meta.definition.variable"
       ],
       "settings": {
-        "foreground": "#ffa657",
+        // "foreground": "#ffa657",
+        "foreground": "#66CDAA"
       }
     },
     {
