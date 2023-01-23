@@ -372,6 +372,12 @@
       }
     },
     {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#1E90FF",
+      }
+    },
+    {
       "scope": [
         "storage",
         "storage.type",
