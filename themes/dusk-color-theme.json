@@ -247,6 +247,7 @@
   "semanticTokenColors": {
     "selfParameter": "#FF00F2",
     "selfKeyword": "#FF00F2",
+    "clsParameter": "#FF00F2",
     "*.typeHint": "#C71585",
   },
   "tokenColors": [
