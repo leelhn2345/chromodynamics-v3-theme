@@ -348,15 +348,19 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag",
-        "variable.other.enummember"
-      ],
+      "scope": "entity.name.tag",
+      // "variable.other.enummember"
       "settings": {
         "foreground": "#dc3958"
         // "foreground": "#12dd96"
         // "foreground": "#7EE787"
         // "foreground": "#66CDAA"
+      }
+    },
+    {
+      "scope": "variable.other.enummember",
+      "settings": {
+        "foreground": "#DEB887",
       }
     },
     {
