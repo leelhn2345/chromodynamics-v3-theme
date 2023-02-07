@@ -360,7 +360,8 @@
     {
       "scope": "variable.other.enummember",
       "settings": {
-        "foreground": "#DEB887",
+        // "foreground": "#DEB887",
+        "foreground": "#66CDAA",
       }
     },
     {
