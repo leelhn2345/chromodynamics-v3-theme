@@ -653,6 +653,12 @@
       }
     },
     {
+      "scope": "punctuation.separator.key-value",
+      "settings": {
+        "foreground": "#1E90FF",
+      }
+    },
+    {
       "scope": "string.quoted.docstring",
       "settings": {
         "foreground": "#00FF7F",
