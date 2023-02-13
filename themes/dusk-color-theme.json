@@ -253,6 +253,12 @@
   },
   "tokenColors": [
     {
+      "scope": "variable.language",
+      "settings": {
+        "foreground": "#FF00F2"
+      }
+    },
+    {
       "scope": [
         "comment",
         "punctuation.definition.comment",
@@ -275,7 +281,7 @@
       "scope": [
         "entity.name.constant",
         "variable.other.constant",
-        "variable.language",
+        // "variable.language",
         "entity"
       ],
       "settings": {
