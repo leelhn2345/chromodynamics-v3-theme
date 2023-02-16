@@ -280,7 +280,6 @@
     {
       "scope": [
         "entity.name.constant",
-        "variable.other.constant",
         // "variable.language",
         "entity"
       ],
