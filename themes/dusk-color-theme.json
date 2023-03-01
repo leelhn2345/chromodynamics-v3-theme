@@ -327,9 +327,8 @@
     },
     {
       "scope": [
-        "meta.jsx.children",
-        "meta.block",
-        "entity.name.constant",
+        // "meta.jsx.children",
+        // "meta.block",
         "meta.object.member",
         "meta.embedded.expression"
       ],
