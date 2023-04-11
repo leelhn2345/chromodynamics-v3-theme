@@ -1,31 +1,31 @@
 {
-    "name": "chromodynamics-v3-theme",
-    "displayName": "Chromodynamics V3 Theme",
-    "description": "A dark color scheme originally from Chromodynamics-V2, by yousefabuz17",
-    "version": "0.2.65",
-    "publisher": "leelhn2345",
-    "engines": {
-        "vscode": "^1.74.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/leelhn2345/chromodynamics-v3-theme"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Chromodusk",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dusk-color-theme.json"
-            },
-            {
-                "label": "ChromodynamicsV3",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ChromodynamicsV3-color-theme.json"
-            }
-        ]
-    }
+  "name": "chromodynamics-v3-theme",
+  "displayName": "Chromodynamics V3 Theme",
+  "description": "A dark color scheme originally from Chromodynamics-V2, by yousefabuz17",
+  "version": "0.2.66",
+  "publisher": "leelhn2345",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leelhn2345/chromodynamics-v3-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chromodusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dusk-color-theme.json"
+      },
+      {
+        "label": "ChromodynamicsV3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ChromodynamicsV3-color-theme.json"
+      }
+    ]
+  }
 }
