@@ -249,7 +249,9 @@
     "selfKeyword": "#FF00F2",
     "clsParameter": "#FF00F2",
     "*.typeHint": "#C71585",
-    "*.callable": "#00FF00"
+    "*.callable": "#00FF00",
+    "tomlTableKey": "#C71585",
+    "tomlArrayKey": "#C71585"
   },
   "tokenColors": [
     {
