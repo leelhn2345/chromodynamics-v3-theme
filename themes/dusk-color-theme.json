@@ -531,6 +531,26 @@
       }
     },
     {
+      "scope": "support.type.property-name.table",
+      "settings": {
+        "foreground": "#4EC9B0",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "punctuation.definition.table.inline",
+      "settings": {
+        "foreground": "#e3b341"
+      }
+    },
+    {
+      "scope": "support.type.property-name.array",
+      "settings": {
+        "foreground": "#569CD6",
+        "fontStyle": ""
+      }
+    },
+    {
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
