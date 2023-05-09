@@ -338,6 +338,18 @@
       }
     },
     {
+      "scope": [
+        "entity.name.function.preprocessor",
+        "entity.name.function.macro"
+      ],
+      "settings": {
+        // "foreground": "#eecd98"
+        // "foreground": "#2ae2ef"
+        // "foreground": "#c76cf4"
+        "foreground": "#d698f4"
+      }
+    },
+    {
       "scope": "entity.name.tag",
       // "variable.other.enummember"
       "settings": {
