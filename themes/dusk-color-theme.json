@@ -439,7 +439,8 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#AB9DF2"
+        // "foreground": "#AB9DF2"
+        "foreground": "#049ca7"
       }
     },
     {
