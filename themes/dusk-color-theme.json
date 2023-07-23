@@ -253,7 +253,8 @@
     "*.typeHint": "#C71585",
     "*.callable": "#00FF00",
     "tomlTableKey": "#C71585",
-    "tomlArrayKey": "#C71585"
+    "tomlArrayKey": "#C71585",
+    "derive": "#C71585"
   },
   "tokenColors": [
     {
@@ -323,6 +324,27 @@
       }
     },
     {
+      "scope": "entity.name.type.trait",
+      "settings": {
+        // "foreground": "#7ee787"
+        "foreground": "#c71585"
+      }
+    },
+    {
+      "scope": "entity.name.type.enum",
+      "settings": {
+        // "foreground": "#8955eb"
+        "foreground": "#895fff"
+      }
+    },
+    {
+      "scope": "variable.other.enummember",
+      "settings": {
+        // "foreground": "#DEB887",
+        "foreground": "#66CDAA"
+      }
+    },
+    {
       "scope": [
         // "meta.jsx.children",
         // "meta.block",
@@ -361,13 +383,7 @@
         // "foreground": "#66CDAA"
       }
     },
-    {
-      "scope": "variable.other.enummember",
-      "settings": {
-        // "foreground": "#DEB887",
-        "foreground": "#66CDAA"
-      }
-    },
+
     {
       "scope": "support.class.component",
       "settings": {
