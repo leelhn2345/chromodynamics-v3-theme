@@ -254,7 +254,10 @@
     "*.callable": "#00FF00",
     "tomlTableKey": "#C71585",
     "tomlArrayKey": "#C71585",
-    "derive": "#C71585"
+    "derive": {
+      "foreground": "#C71585",
+      "fontStyle": "underline"
+    }
   },
   "tokenColors": [
     {
@@ -327,7 +330,8 @@
       "scope": "entity.name.type.trait",
       "settings": {
         // "foreground": "#7ee787"
-        "foreground": "#c71585"
+        "foreground": "#c71585",
+        "fontStyle": "underline"
       }
     },
     {
