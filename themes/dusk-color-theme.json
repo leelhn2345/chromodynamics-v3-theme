@@ -254,7 +254,7 @@
     "*.callable": "#00FF00",
     "tomlTableKey": "#C71585",
     "tomlArrayKey": "#C71585",
-    "derive": "#c76cf4"
+    "derive": "#66cdaa"
   },
   "tokenColors": [
     {
@@ -326,23 +326,23 @@
     {
       "scope": "entity.name.type.trait",
       "settings": {
-        "foreground": "#c76cf4"
-        // "foreground": "#c71585",
+        // "foreground": "#c76cf4"
+        // "foreground": "#1fbfbf"
+        "foreground": "#66cdaa"
       }
     },
     {
       "scope": "entity.name.type.enum",
       "settings": {
-        // "foreground": "#8955eb"
-        "foreground": "#895fff"
+        // "foreground": "#895fff"
+        "foreground": "#c76cf4"
       }
     },
     {
       "scope": "variable.other.enummember",
       "settings": {
-        // "foreground": "#0f9f9f"
-        "foreground": "#1fbfbf"
-        // "foreground": "#18b3b3"
+        // "foreground": "#1fbfbf"
+        "foreground": "#00ffff"
       }
     },
     {
@@ -368,14 +368,13 @@
         "entity.name.function.macro"
       ],
       "settings": {
-        // "foreground": "#2ae2ef"
         // "foreground": "#c76cf4"
-        "foreground": "#d698f4"
+        // "foreground": "#d698f4"
+        "foreground": "#E45314"
       }
     },
     {
       "scope": "entity.name.tag",
-      // "variable.other.enummember"
       "settings": {
         "foreground": "#dc3958"
         // "foreground": "#12dd96"
