@@ -344,8 +344,9 @@
     {
       "scope": "variable.other.enummember",
       "settings": {
-        // "foreground": "#DEB887",
-        "foreground": "#66CDAA"
+        // "foreground": "#0f9f9f"
+        "foreground": "#1fbfbf"
+        // "foreground": "#18b3b3"
       }
     },
     {
@@ -371,7 +372,6 @@
         "entity.name.function.macro"
       ],
       "settings": {
-        // "foreground": "#eecd98"
         // "foreground": "#2ae2ef"
         // "foreground": "#c76cf4"
         "foreground": "#d698f4"
