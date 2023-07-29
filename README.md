@@ -5,4 +5,14 @@
 
 Languages that i use most often are rust, typescript, python.
 
-Will update repository soon~
+## Themes
+
+### chromodusk
+
+in active maintenance.
+has semantic token for colours.
+
+### chromodynamic v3
+
+no longer maintained.
+uses textmate for syntax coloring.
