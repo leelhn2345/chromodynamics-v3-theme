@@ -427,6 +427,7 @@
     {
       "scope": [
         "source",
+        "variable.other",
         "variable.other.constant.object",
         "variable.other.constant.tsx"
       ],
