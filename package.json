@@ -2,7 +2,7 @@
   "name": "chromodynamics-v3-theme",
   "displayName": "Chromodynamics V3 Theme",
   "description": "A dark color scheme originally from Chromodynamics-V2, by yousefabuz17",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "publisher": "leelhn2345",
   "engines": {
     "vscode": "^1.74.0"

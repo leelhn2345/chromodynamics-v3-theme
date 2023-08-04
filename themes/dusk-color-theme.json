@@ -425,7 +425,11 @@
       }
     },
     {
-      "scope": ["source", "variable.other.constant.object"],
+      "scope": [
+        "source",
+        "variable.other.constant.object",
+        "variable.other.constant.tsx"
+      ],
       "settings": {
         "foreground": "#FFFFFF"
       }
@@ -437,16 +441,10 @@
       }
     },
     {
-      "scope": "variable",
+      "scope": "variable.parameter",
       "settings": {
         // "foreground": "#ffa657"
         "foreground": "#FF8C00"
-      }
-    },
-    {
-      "scope": "variable.other",
-      "settings": {
-        "foreground": "#FFFFFF"
       }
     },
     {
