@@ -425,10 +425,16 @@
       }
     },
     {
+      "scope": ["source", "variable.other", "variable.other.constant.object"],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "scope": [
-        "source",
-        "variable.other",
-        "variable.other.constant.object",
+        "variable.other.constant.js",
+        "variable.other.constant.jsx",
+        "variable.other.constant.ts",
         "variable.other.constant.tsx"
       ],
       "settings": {
