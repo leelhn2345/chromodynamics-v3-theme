@@ -295,9 +295,9 @@
     {
       "scope": [
         "entity.name",
-        "entity.name.namespace",
-        "meta.export.default",
-        "meta.definition.variable"
+        "entity.name.namespace"
+        // "meta.export.default",
+        // "meta.definition.variable"
       ],
       "settings": {
         // "foreground": "#ffa657",
@@ -425,7 +425,13 @@
       }
     },
     {
-      "scope": ["source", "variable.other", "variable.other.constant.object"],
+      "scope": [
+        "source",
+        "variable.other",
+        "variable.other.constant.object",
+        "meta.export.default",
+        "meta.definition.variable"
+      ],
       "settings": {
         "foreground": "#FFFFFF"
       }
