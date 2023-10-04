@@ -437,12 +437,7 @@
       }
     },
     {
-      "scope": [
-        "variable.other.constant.js",
-        "variable.other.constant.jsx",
-        "variable.other.constant.ts",
-        "variable.other.constant.tsx"
-      ],
+      "scope": "variable.other.constant",
       "settings": {
         "foreground": "#FFFFFF"
       }
@@ -463,8 +458,8 @@
     {
       "scope": [
         "constant.character",
-        "constant.other",
-        "variable.other.constant"
+        "constant.other"
+        // "variable.other.constant"
       ],
       "settings": {
         // "foreground": "#AB9DF2"
