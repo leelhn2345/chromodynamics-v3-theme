@@ -674,6 +674,13 @@
       }
     },
     {
+      "scope": "support.function.magic",
+      "settings": {
+        "foreground": "#FF0000",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "scope": "punctuation.separator.key-value",
       "settings": {
         "foreground": "#1E90FF"
