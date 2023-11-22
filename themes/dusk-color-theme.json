@@ -335,14 +335,16 @@
       "scope": "entity.name.type.enum",
       "settings": {
         // "foreground": "#895fff"
-        "foreground": "#c76cf4"
+        // "foreground": "#c76cf4"
+        "foreground": "#00ffff"
       }
     },
     {
       "scope": "variable.other.enummember",
       "settings": {
         // "foreground": "#1fbfbf"
-        "foreground": "#00ffff"
+        // "foreground": "#00ffff"
+        "foreground": "#c76cf4"
       }
     },
     {
