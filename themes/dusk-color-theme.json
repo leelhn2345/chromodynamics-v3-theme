@@ -466,7 +466,8 @@
       "settings": {
         // "foreground": "#AB9DF2"
         // "foreground": "#049ca7"
-        "foreground": "#dfd313"
+        // "foreground": "#dfd313"
+        "foreground": "#FFFFFF"
       }
     },
     {
