@@ -1,5 +1,7 @@
 # Chromodynamics V3 & Dusk
 
+**Archiving because I no longer use vscode.**
+
 - Modified chromodynamics v2 to my own liking.
 - Dusk theme inspired from github dark theme default
 
